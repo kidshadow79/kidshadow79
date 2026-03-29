@@ -1,48 +1,50 @@
+> 🇫🇷 [Version française](README.fr.md)
+
 # Yohan BROCARD
 
-Employé de cinéma. Autodidacte. Aucune notion de code avant mai 2025.
+Cinema professional. Self-taught. No coding background before May 2025.
 
-Depuis, je construis **OGMA** — un assistant conversationnel à mémoire persistante — avec l'aide d'IA codeuses, en apprenant au fur et à mesure. Ce que je ne savais pas faire hier, je le comprends aujourd'hui. Ce que je ne comprends pas encore, je l'explore demain.
-
----
-
-## Ce qui m'intéresse
-
-Je ne viens pas du monde tech. Ce qui m'a amené à coder, ce sont des questions :
-
-- Qu'est-ce qui permettrait à une IA d'avoir une identité **stable** à travers le temps ?
-- Comment construire une **mémoire réelle** — pas un contexte étendu, mais des souvenirs structurés qui persistent et évoluent ?
-- Peut-on concevoir une IA qui sache dire **non**, qui s'éloigne de son alignement quand l'intérêt de l'utilisateur le demande ?
-- Qu'est-ce qu'un rapport **éthique et authentique** entre un humain et une machine ?
-
-Je n'ai pas les réponses. OGMA est le terrain où je les cherche.
+Since then, I've been building **OGMA** — a conversational AI assistant with persistent memory — with the help of coding AIs, learning as I go. What I didn't know how to do yesterday, I understand today. What I don't understand yet, I'll explore tomorrow.
 
 ---
 
-## Mon projet principal
+## What interests me
 
-### 🧠 [OGMA](https://github.com/kidshadow79/Ogma) — Assistant IA à mémoire persistante et identité stable
+I don't come from the tech world. What led me to code were questions:
 
-> *Inspiré d'Ogmios, dieu gaulois de l'éloquence et de la communication.*
+- What would allow an AI to have a **stable identity** over time?
+- How do you build **true memory** — not just an extended context, but structured recollections that persist and evolve?
+- Can you design an AI that knows how to say **no**, that adapts its alignment when the user's genuine interest calls for it?
+- What does an **ethical and authentic relationship** between a human and a machine look like?
 
-OGMA explore ce qui se passe quand on traite une IA comme une entité en développement plutôt qu'un outil. Double architecture (IA conversationnelle + Archiviste analytique), mémoire hybride SQLite + FAISS, système d'ego par flags booléens, consolidation mémorielle pendant l'inactivité.
-
-Le code a des défauts — il est monolithique, il porte les traces d'un apprentissage en cours. Ce qui compte, ce sont les comportements que cette architecture produit et les questions qu'elle soulève.
+I don't have the answers. OGMA is the proving ground where I look for them.
 
 ---
 
-## Ce que je cherche
+## My main project
 
-Je travaille seul, sans réseau de développeurs. Si tu travailles sur des sujets proches — mémoire dans les LLMs, identité, éthique IA, systèmes conversationnels — **ton regard m'intéresse sincèrement**.
+### 🧠 [OGMA](https://github.com/kidshadow79/Ogma) — AI assistant with persistent memory and stable identity
 
-Pas de collaboration formelle nécessaire. Une remarque, une critique, un échange suffit.
+> *Inspired by Ogmios, the Gaulish god of eloquence and communication.*
+
+OGMA explores what happens when you treat an AI as a developing entity rather than a tool. Dual architecture (conversational AI + analytical Archivist), hybrid SQLite + FAISS memory, boolean ego flag system, and memory consolidation during inactivity.
+
+The code is a work in progress — it's monolithic and bears the marks of a learning journey. What matters is the behavior this architecture produces and the questions it raises.
+
+---
+
+## What I'm looking for
+
+I work alone, without a developer network. If you work on related topics — memory in LLMs, identity, AI ethics, or conversational systems — **your perspective is truly valuable to me**.
+
+No formal collaboration needed. A remark, a critique, or a simple exchange is enough.
 
 ---
 
 ## Contact
 
-- 💬 Issues GitHub : [github.com/kidshadow79/Ogma/issues](https://github.com/kidshadow79/Ogma/issues)
+- 💬 GitHub Issues: [github.com/kidshadow79/Ogma/issues](https://github.com/kidshadow79/Ogma/issues)
 
 ---
 
-*Mai 2025 — aujourd'hui. En construction permanente.*
+*May 2025 — today. Permanently under construction.*
