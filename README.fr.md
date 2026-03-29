@@ -44,6 +44,7 @@ Pas de collaboration formelle nécessaire. Une remarque, une critique, un échan
 ## Contact
 
 - 💬 Issues GitHub : [github.com/kidshadow79/Ogma/issues](https://github.com/kidshadow79/Ogma/issues)
+- 📧 Email : ogma.contact@etik.com — rapports de vulnérabilités de sécurité, demandes privées
 
 ---
 
